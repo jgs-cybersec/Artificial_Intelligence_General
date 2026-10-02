@@ -31,3 +31,5 @@ Claimed to be up to 200x faster and 400x cheaper than traditional large language
 #### Importance in Cyberseurity:
 
 Log sorting and categorizing.
+
+**Laya same AI built by a malayali 1 year before but was not properly marketed.**
